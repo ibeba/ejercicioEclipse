@@ -6,6 +6,7 @@ public class ExampleClass {
 		System.out.println("Hola");
 		System.out.println("Adios");
 		System.out.println("Que tal");
-		System.out.println("Muy bien");
+		System.out.println("Me has escuchado?");
+		System.out.println("Sí muy bien");
 	}
 }
